@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate BTech student from Delhi. I love to code and contribute to open-source projects.
-
-- 🤝 I'm open to collaborations and networking
-- 📫 Reach me at: manikajoshi500@gmail.com
-
-## Technologies & Tools
-- Programming Languages: C++, Java, Python, Javascript, 
-- Tools: Git, npm, Microsoft Azure, Visual Studio Code, Postman
+I'm a passionat engineer from Delhi.
 
 ## GitHub Stats
 
