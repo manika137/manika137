@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionat engineer from Delhi.
+I'm a passionate engineer from Delhi.
 
 ## GitHub Stats
 
